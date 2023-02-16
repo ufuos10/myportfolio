@@ -56,6 +56,12 @@ a:hover {
     text-decoration: underline;
     background-color: black;
 }
+a:link {
+    font-wight: bold;
+    text-decoration: none;
+    color: lightblue;
+    font-size; 1rem
+}
 a:visited {
     color: green;
     font-weight: normal;
